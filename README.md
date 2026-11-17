@@ -1,6 +1,4 @@
-# Glow-and-wax-boutique
-A responsive wax candle boutique website designed using Stitch AI, with product details, elegant styling, and a user-friendly layout.
- 🕯️
+# Glow-and-wax-boutique 🕯️
 # Luxury Handmade Candles & Olfactory Art
 
 ## 1. Project Introduction
