@@ -25,9 +25,9 @@ Glow & Wax Boutique is a website designed to showcase luxury handmade candles an
 - GitHub – Project source code management.
 
 ## 5. Project Structure
-- index.html – Main website page.
-- style.css – Website styling.
-- script.js – Interactive features.
+- index.html – Main website containing HTML, CSS and JavaScript.
+- DESIGN.md – Project design documentation.
+- screen.png – Website screenshot.
 - README.md – Project documentation.
 
 ## 6. How to Run the Project
