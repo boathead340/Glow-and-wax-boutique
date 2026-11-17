@@ -30,8 +30,6 @@ Glow & Wax Boutique is a website designed to showcase luxury handmade candles an
 - script.js – Interactive features.
 - README.md – Project documentation.
 
-*Note: Update the file names according to your actual repository.*
-
 ## 6. How to Run the Project
 1. Download or clone the GitHub repository.
 2. Open the project folder.
